@@ -36,7 +36,7 @@ class Users extends React.Component {
   };
   render() {
     const users = this.state.usersList.map((item) => (
-      <div key={item.id} className="users_container">
+      <div key={item.id} className="users_list">
         <div className="users_list_card">
           <Avatar shape="square" icon={<UserOutlined />} />
           <li className="users_list_card_name">{item.real_name}</li>
