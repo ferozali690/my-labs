@@ -1,0 +1,119 @@
+{
+  "ok": true,
+  "members": [
+    {
+      "id": "W012A3CDE",
+      "real_name": "Egon Spengler",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "February 01,2020 11:13:00",
+          "end_time": "February 01,2020 11:13:00"
+        },
+        {
+          "start_time": "March 01, 2020 11:13:00",
+          "end_time": "March 01, 2020 11:13:00"
+        },
+        {
+          "start_time": "March 16, 2020 11:13:00",
+          "end_time": "March 16, 2020 11:13:00"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA4",
+      "real_name": "Glinda Southgood",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "February 02, 2020 11:13:00",
+          "end_time": "February 02, 2020 11:13:00"
+        },
+        {
+          "start_time": "March 02, 2020 11:13:00",
+          "end_time": "March 02, 2020 11:13:00"
+        },
+        {
+          "start_time": "March 17, 2020 11:13:00",
+          "end_time": "March 17, 2020 11:13:00"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA5",
+      "real_name": "John Doe",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "February 03, 2020 11:13:00",
+          "end_time": "February 03, 2014 11:13:00"
+        },
+        {
+          "start_time": "March 03, 2020 11:13:00",
+          "end_time": "March 03, 2014 11:13:00"
+        },
+        {
+          "start_time": "March 18, 2020 11:13:00",
+          "end_time": "March 18, 2020 11:13:00"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA6",
+      "real_name": "Brad",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "February 04, 2014 11:13:00",
+          "end_time": "February 04, 2014 11:13:00"
+        },
+        {
+          "start_time": "March 04, 2014 11:13:00",
+          "end_time": "March 04, 2014 11:13:00"
+        },
+        {
+          "start_time": "March 19, 2014 11:13:00",
+          "end_time": "March 19, 2014 11:13:00"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA7",
+      "real_name": "Traversy",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "February 05, 2020 11:13:00",
+          "end_time": "February 05, 2014 11:13:00"
+        },
+        {
+          "start_time": "March 05, 2020 11:13:00",
+          "end_time": "March 05, 2014 11:13:00"
+        },
+        {
+          "start_time": "March 20, 2020 11:13:00",
+          "end_time": "March 20, 2020 11:13:00"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA8",
+      "real_name": "Miller",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "February 06, 2020 11:13:00",
+          "end_time": "February 06, 2020 11:13:00"
+        },
+        {
+          "start_time": "March 06, 2020 11:13:00",
+          "end_time": "March 06, 2020 11:13:00"
+        },
+        {
+          "start_time": "March 21, 2020 11:13:00",
+          "end_time": "March 21, 2020 11:13:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+.users_list {
+  border: 1px solid;
+
+  display: inline-block;
+  padding: 20px;
+  margin: 80px 0px 0px 130px;
+  width: 300px;
+  height: 200px;
+  border-radius: 20px;
+}
+.users_list_names {
+  list-style-type: none;
+}
+.user_heading {
+  text-align: center;
+}
+
+.user_list_activity {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.user_list_activity_title_start {
+  margin-right: 10px;
+  font-weight: bold;
+}
+.user_list_activity_title_end {
+  margin: 0px 10px 0px 20px;
+  font-weight: bold;
+}
+
+span.user_modal_name_title {
+  font-weight: bold;
+  margin-right: 40px;
+}
+.user_activity_calender {
+  margin-left: 20px;
+}
+
+.users_list_card {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 40px;
+}
+
+.users_list_card_name {
+  font-weight: bold;
+}
